@@ -27,7 +27,7 @@ To build and run the application, ensure you have Java and Gradle installed on y
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/syedsabaat/Virtual-Scroll-Access-System-VSAS-.git
-   cd Virtual-Scroll-Access-System-VSAS-```
+   cd Virtual-Scroll-Access-System-VSAS-
 2. **Build the Project:**
    ```sh
    gradle build
