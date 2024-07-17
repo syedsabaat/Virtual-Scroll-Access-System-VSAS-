@@ -30,10 +30,11 @@ To build and run the application, ensure you have Java and Gradle installed on y
    cd Virtual-Scroll-Access-System-VSAS-```
 2. **Build the Project:**
    ```sh
-   gradle build```
+   gradle build
 3. **Run the Build:**
    ```sh
-   gradle run ```
+   gradle run
+   
    
 ## Development
 This project was developed following Scrum practices with defined roles for team members. We conducted multiple sprints for iterative development and continuous improvement, utilizing Agile tools and CI/CD practices.
